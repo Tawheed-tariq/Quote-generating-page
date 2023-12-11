@@ -1,4 +1,5 @@
 "use strict"
+//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
 AOS.init();
 const quotes = document.querySelector('.quotes');
 const author = document.querySelector('.author');
